@@ -16,5 +16,4 @@ You can add images to a gallery and a shortcode will be generated which can be c
 Authors
 Neevan Mathew John
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+
